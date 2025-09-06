@@ -1,0 +1,14 @@
+D:\Documentos\Curso_C#_Nivel_1\7-vectores\vectores1\obj\Debug\net9.0\vectores1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Curso_C#_Nivel_1\7-vectores\vectores1\obj\Debug\net9.0\vectores1.AssemblyInfoInputs.cache
+D:\Documentos\Curso_C#_Nivel_1\7-vectores\vectores1\obj\Debug\net9.0\vectores1.AssemblyInfo.cs
+D:\Documentos\Curso_C#_Nivel_1\7-vectores\vectores1\obj\Debug\net9.0\vectores1.csproj.CoreCompileInputs.cache
+D:\Documentos\Curso_C#_Nivel_1\7-vectores\vectores1\bin\Debug\net9.0\vectores1.exe
+D:\Documentos\Curso_C#_Nivel_1\7-vectores\vectores1\bin\Debug\net9.0\vectores1.deps.json
+D:\Documentos\Curso_C#_Nivel_1\7-vectores\vectores1\bin\Debug\net9.0\vectores1.runtimeconfig.json
+D:\Documentos\Curso_C#_Nivel_1\7-vectores\vectores1\bin\Debug\net9.0\vectores1.dll
+D:\Documentos\Curso_C#_Nivel_1\7-vectores\vectores1\bin\Debug\net9.0\vectores1.pdb
+D:\Documentos\Curso_C#_Nivel_1\7-vectores\vectores1\obj\Debug\net9.0\vectores1.dll
+D:\Documentos\Curso_C#_Nivel_1\7-vectores\vectores1\obj\Debug\net9.0\refint\vectores1.dll
+D:\Documentos\Curso_C#_Nivel_1\7-vectores\vectores1\obj\Debug\net9.0\vectores1.pdb
+D:\Documentos\Curso_C#_Nivel_1\7-vectores\vectores1\obj\Debug\net9.0\vectores1.genruntimeconfig.cache
+D:\Documentos\Curso_C#_Nivel_1\7-vectores\vectores1\obj\Debug\net9.0\ref\vectores1.dll
